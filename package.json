@@ -1,0 +1,19 @@
+{
+  "name": "nodeexercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eventloop/app.js",
+  "scripts": {
+    "start": "node eventloop/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.17",
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
